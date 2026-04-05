@@ -7,6 +7,8 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Website](https://img.shields.io/badge/website-rheehose.com-orange)](https://rheehose.com)
 
+# ⠦⠐⠊⠀⠙⠥⠎⠞⠢⠴⠀⠏⠂⠞⠁⠤⠱⠐⠀⠎⠀⠎⠁⠱⠔⠐⠀⠊⠀⠓⠐⠕⠁⠏⠙⠕⠖⠀⠊⠕⠔⠅⠐⠀⠛⠊⠙⠕⠓⠧⠟⠢⠀⠃⠨⠗⠁⠲⠴
+
 ---
 
 ## 🏛️ 셈글의 차ᇱ세기 (The Genesis of Semgle / འབྱུང་ཁུངས / מוֹצָא / 創世記 / ጥንተ፡ነገር)
