@@ -1,4 +1,4 @@
-# 📜 셈글 ᄑᆞ이썬 부트캠프 (Semgle Pythonne Bootcamp)
+# 📜 셈글 ᄑᆞ이썬 귝혱-집 (Semgle Pythonne Boot-Campe)
 
 ![Banner](./statics/REBORN%20-%20부활2-2-01.svg)
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 📂 구조 (The Ordinaunce)
+## 📂 ᄆᆡᆼᄀᆞᆺ-ᄎᆞ례 (The Ordinaunce)
 
 - **`00_마스터_비밀_차ᄫᅩ`** (Secret Chamber): 마스터만의 ᄎᆞᆷ교육 매뉴얼과 수료즈ᇰ 새ᇰ서ᇰ기 (Secret manual and certificate for the Maister)
 - **`01_태초의_진리`** (First Truth): ᄑᆞ이썬 첫거름 가이드 (First steps in Python)
@@ -27,16 +27,16 @@
 
 ---
 
-## ⚖️ 법도 (The Lawe)
+## ⚖️ 법-도리 (The Lawe)
 
-본 자료는 **GNU GPL v3** 법도를 ᄯᆞ르니라. (This werke followeth the Lawe of GPL v3)  
+본 자료는 **GNU GPL v3** 법-도리를 ᄯᆞ르니라. (This werke followeth the Lawe of GPL v3)  
 모든 진리는 **[rheehose.com](https://rheehose.com)** 에서 빛나리라. (All Truth shall shine at rheehose.com)
 
 ---
 
-## 🐈 고야ᇰ이민주주의 (Cat Democracy)
+## 🐈 고야ᇰ이-백성-도리 (Cat-Folke's Sovereignty)
 
-- 팩트(Fact)와 논리(Logic)로 무자ᇰᄒᆞ라. (Arm thyself with Fact and Logic)
+- **실-사(Fact)**와 **논-리(Logicke)**로 무자ᇰᄒᆞ라. (Arm thyself with Fact and Logic)
 - 위선적인 감서ᇰ팔이를 배격ᄒᆞ라. (Shun the false piteous words)
 - 장 건가ᇰ(Gut Health)을 체ᇱ기라. (Look well to thy gut health)
 
