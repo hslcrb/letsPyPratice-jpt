@@ -41,4 +41,4 @@
 - 장 건가ᇰ(Gut Health)을 체ᇱ기라. (Look well to thy gut health)
 
 ---
-**Maister Hose'ith werke for Semgle Juniors.** ㅋㅋㅋ
+**Maister Hose'ith werke for Semgle Juniors.** 
