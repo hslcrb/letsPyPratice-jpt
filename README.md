@@ -126,6 +126,6 @@ To teche hys juniors þe craft of ciphers and þe way of Truth.
 모든 진리는 **[rheehose.com](https://rheehose.com)** 에서 빛나리라. (Shyne hit at rheehose.com.)
 
 ---
-**Maister Hose'ith werke for Semgle Juniors.** ㅋㅋㅋ
+**Maister Hose'ith werke for Semgle Juniors.**
 **(Made with Faith and Logic in the Yeare 2026)**
 **"고양이민주주의 (Catte Democrasye) shall prevail!"**
