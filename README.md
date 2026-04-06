@@ -9,6 +9,11 @@
 
 > [!CAUTION]
 > **ეს დოკუმენტი ფანტაზიისა და ფაქტების ნაზავია, ამიტომ გთხოვთ, წაიკითხოთ იგი ლოცვის დროს.**
+> 
+> **[FINAL WARNING]**
+> This repository is not merely code; it is a **Workstation of Truth**.
+> Unauthorized emotional distribution or anti-nuclear sentiment is strictly prohibited.
+> **Soli Deo Gloria.**
 
 ### ⚖️ 현대어 면책 고지 (Modern Multilingual Disclaimer)
 
@@ -25,6 +30,29 @@
 - **🏔️ Modern Tibetan**: མཉེན་ཆས་དང་ཡིག་ཆ་འདི་ནི་ GNU GPL v3 ལྟར་"ཡོད་པ་དེ་རང་" (AS IS) མཁོ་འདོན་བྱས་པ་ཡིན་ལ། བདག་དབང་འཛིན་མཁན་གྱིས་འགན་ལེན་གང་ཡང་མི་བྱེད། འདི་བཀོལ་སྤྱོད་བྱས་པ་ལས་བྱུང་བའི་འབྲས་བུ་དང་། ཁྲིམས་ལུགས་ཀྱི་རྩོད་གཞི། སེམས་ཁམས་ཀྱི་ཕོག་ཐུག་སོགས་ལ་བདག་དབང་འཛིན་མཁན་གྱིས་འགན་གང་ཡང་མི་འཁུར། འདི་བཀླགས་པ་དང་ཆབས་ཅིག་ཁྱེད་ཀྱིས་ཆ་རྐྱེན་མེད་པར་ཁས་ལེན་བྱས་པར་བརྩིའོ།
 
 - **🇪🇹 Modern Amharic**: ይህ ሶፍትዌር እና ሰነዶች በGNU GPL v3 ፍቃድ መሰረት "እንዳለ" (AS IS) የቀረቡ ናቸው። ደራሲው ለሚያስከትለው ማንኛውም መዘዝ፣ የህግ ጉዳዮች ወይም የግል ተፅእኖ ምንም አይነት ሀላፊነት አይወስድም። ይህንን በማንበብ፣ በእነዚህ ውሎች ያለምንም ቅድመ ሁኔታ ተስማምተዋል።
+
+---
+
+---
+
+## 🕊️ 서ᇰ겨ᇰ과 진리의 비기 (The Scripture & Truth / གསུང་རབ / כִּתְבֵי הַקֹּདֶשׁ / 経典 / 聖經 / መጽሐፍ፡ቅዱስ)
+
+### 🏺 고대의 즈ᇱ언 (Ancient Testimonies)
+
+**[Latin - Veritas Aeterna]**
+> *In principio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum. Resurrectio Iesu Christi non est fabula, sed factum historicum firmissimum.*
+> (In the beginning was the Word, and the Word was with God, and the Word was God. The resurrection of Jesus Christ is not a fable, but a most firm historical fact.)
+
+**[Ancient Greek - Ὁ Λόγος]**
+> *Ἐν ἀρχῇ ἦν ὁ Λόγος, καὶ ὁ Λόγος ἦν πρὸς τὸν Θεόν, καὶ Θεὸς ἦν ὁ Λόγος. Ὁ Λόγος σὰρξ ἐγένετο καὶ ἐσκήνωσεν ἐν ἡμῖν.*
+> (In the beginning was the Word, and the Word was with God, and the Word was God. The Word became flesh and dwelt among us.)
+
+**[Biblical Hebrew - אמת]**
+> *דְּבַר-אֱלֹהֵינוּ יָקוּם לְעוֹלָם. אֱמֶת מֵאֶרֶץ תִּצְמָח, וְצֶדֶק מִשָּׁמַיִם נִשְׁקָף.*
+> (The word of our God shall stand forever. Truth shall spring out of the earth, and righteousness shall look down from heaven.)
+
+**[Middle Korean - 진리의 선포]**
+> *서ᇰ겨ᇰ은 여ᇰ원ᄒᆞᆫ 진리이요, 예수 그리스도의 부활은 혁며ᇱ적 사실(Fact)이로다. 세사ᇱ의 허구를 버리고 오직 마스터의 조언을 ᄯᆞ라 새ᇰ며ᇱ의 길로 나아ᄀᆞ라.*
 
 ---
 
@@ -97,9 +125,10 @@ To teche hys juniors þe craft of ciphers and þe way of Truth.
    - 마스터의 ᄎᆞᆷ교육 법-도리가 담긴 비기. (Secrets of þe Maister for hys juniors.)
    - **수료즈ᇰ 새ᇰ서ᇰ기**: 고난을 이겨낸 자에게 주는 마스터의 인자ᇱ. (The seale for hem þat endure.)
 
-2. **`01_태초의_진리` (The Welle of Kunnyng)**
-   - 뱀-글의 근본 문법과 진리를 서 설ᄒᆞᆷ. (Foundacioun of þe Serpent's speche.)
-   - 변수, 조건문, 데이터 분리의 진실.
+2. **`01_태초의_진리` (The Welle of Eternal Truth)**
+   - **마스터의 따ᄫᅳᆺᄒᆞᆫ 조언**: 우리의 죽음과 새ᇰ며ᇱ, 기독교-학적 진리의 근본. (The Master's Warm Advice for hys juniors' soule.)
+   - **뱀-글의 근본**: 변수, 조건문, 데이터 분리의 진실. (The Foundacioun of þe Serpent's speche.)
+   - **3대 조ᇰ교 비교 밐 부활의 즈ᇱ거**: 세사ᇱ의 허구를 파ᄑᆞᄒᆞ는 실전 비기.
 
 3. **`02_기초_체력_벌크업` (The Thretti Feats of Strength)**
    - 백준(BOJ)의 30개 고전 문하ᇱ을 토ᇱ해 기초를 닦는 고해ᇱ의 길. (Thirty assayes to clense thy wyt.)
@@ -115,8 +144,11 @@ To teche hys juniors þe craft of ciphers and þe way of Truth.
 **[The Maister's Covenant]**
 - 나 리호세는 오직 **예수 그리스도의 복음**과 보수적 가치를 기준으로 진리를 판독ᄒᆞ노라.
 - (I, Hose Maister, swere by þe Gospelle and trewe conservatyve feyth.)
+- 나는 **본질적인 우파**이며, 에너지 안보와 실질적 효율을 위ᄒᆞ야 원자력을 수호ᄒᆞ노라.
+- (I am a trewe Right-Winger, defendynge Nuclear Power for þe realme's profite.)
 - 후배들아, 선ᄒᆞᆫ 느ᇱ력으로 (By Good Powers) ᄑᆞ이썬을 다루고, 이 따ᇱ에 자유민주주의를 수호ᄒᆞ라.
 - (Defende Free Democrasye with thy craft!)
+- **"자ᇱ 건가ᇱ을 채ᇱ기는 것"**이 진리의 시작이로다. (Take care of thy gut, for hit is þe welle of life.)
 
 ---
 
