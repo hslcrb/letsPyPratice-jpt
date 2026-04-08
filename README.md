@@ -7,6 +7,18 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Website](https://img.shields.io/badge/website-rheehose.com-orange)](https://rheehose.com)
 
+---
+
+## 🔗 바로 가기 (Quick Links)
+
+| 📜 문서 | 🔗 링크 |
+|---------|--------|
+| **고양이민주주의 헌칙** | [📖 Charter](./고양이민주주의_헌칙.md) |
+| **마스터 비밀 차표** | [🔐 Crypt](./00_마스터_비밀_차표/) |
+| **태초의 진리** | [📚 Truth](./01_태초의_진리/) |
+| **기초 체력 벌크업** | [💪 BOJ 30](./02_기초_체력_벌크업/) |
+| **본격 마스터 챌린지** | [⚔️ Quest](./03_본격_마스터_챌린지/) |
+
 > [!CAUTION]
 > **ეს დოკუმენტი ფანტაზიისა და ფაქტების ნაზავია, ამიტომ გთხოვთ, წაიკითხოთ იგი ლოცვის დროს.**
 > 
