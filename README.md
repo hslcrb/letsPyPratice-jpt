@@ -1,7 +1,7 @@
 # 📜 셈글 뱀-글 귝혱-집 (Semgle Serpent's Cypher Boot-Campe)
 ## 🐍 지구촌 고대 문며ᇱ 대토ᇱ합 '울트라 로ᇱ' 비기 (The Chronicul of Semgle - Ultra Long Edition)
 
-![Banner](./statics/REBORN%20-%20부활2-2-01.svg)
+
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
